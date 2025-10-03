@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang = "eng"></html>
+
+<head>
+    <meta charset = "UTF-8">
+    <meta name = "viewport" content = "width-device-width, intital-scale = 1">
+    <title>The Eternal City</title>
+</head>
+
+<body>
+
+    <header>
+       <h1>Welcome.</h1>
+       <h2>We have been expecting you.</h2> 
+    </header>
+<p><i>For your visitng pleasure, we've provided optional musical accompnaiment:</i></p>
+ <audio controls>
+        <source src="C:\Users\mdroy2\Desktop\EternalCity/ytmp3free.cc_al-bowlly-youre-my-everything-youtubemp3free.org.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+      </audio>
+    <p>What if there was a place where time never moved forward? Endless blocks of stucco and steel, stretching on into the horizon. A place where relaxing becomes a challenge, but not in a way that would be viewed as unseemly.</p>
+    <p>Welcome to The Eternal City, a tourist location that feeds into your fears of the otherworldy, but also your curiosity. Get lost in the City's endless alleyways, or spend eternity in a signle market square.</p>
+    <h5><i>Guests are required to leave after their alloted time has come ot a close. Please do not attempt to stay longer than your time slot.</i></h5>
+        <nav>
+            <ul>
+                <li><a href = "#prices">Prices</a></li>
+                <li><a href = "#aboutthecity">About The City</a></li>
+                <li><a href = "#partners">Partners</a></li>
+            </ul>
+        </nav>
+        
+<main>
+    <section id = "prices">
+        <h2>Staying Inside The City</h2>
+        <p><i>We offer a variety of single-night and multi-night packages for your stay at The Eternal City.</i></p>
+        <figure>
+            <img src = "C:\Users\mdroy2\Desktop\EternalCity/funyVilla.jpg" alt = "A villa available to our Platinum Hermit members.">
+            <figcaption>Fig. 1, a villa available to our Platinum Hermit members.</figcaption>
+        </figure>
+        <p><b>One Night:</b> $40</p>
+        <p><b>One Week:</b> $280</p>
+        <p><i>Value of time scales with the base 1-day price. </i></p>
+        <h3>Memberships.</h3>
+        <p>If you're interested in a more permanent stay at The City, you can always join our Hermit membership program. Hermits get a 15% discount on all City products, in additon to a free 168 hours.</p>
+        <p>Membership starts at $100 a year, and increases per tier.</p>
+        <p><i><b>A special thanks to our Platinum Hermit members, whom without the City would fall into disrepair.</b></i></p>
+    </section>
+    <section id = "aboutthecity">
+        <h2>About The City</h2>
+        <p>The Endless city began growing in 1754, when Jacque le Bouffon accidentally brought his house to life. Since then, the City has spread into and around other major urban centers, and incorporating</p>
+        <p>them into its design. Not much more is known about its properties, other than the fact that Jacque remains the only one who could ever control it. Thankfully, we've found a way to tame The City,</p>
+        <p>and prevent it from growing further.</p>
+    </section>
+    <section id = "partners">
+        <h2>Partners</h2>
+        <p>Explore some of our other vacation locations:</p>
+        <ul>
+            <li><a href = "https://scp-wiki.wikidot.com/">The Foundation Hills</a></li>
+        </ul>
+    </section>
+</main>
+<footer>
+    <p>Questions? <a href = "mailto:mdroy2@ilstu.edu">Email me</a>.</p>
+</footer>
+</body>
